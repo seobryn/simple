@@ -1,0 +1,7 @@
+/Users/jose.joya/Projects/Tests/simple/build/CMakeFiles/simple.dir
+/Users/jose.joya/Projects/Tests/simple/build/CMakeFiles/edit_cache.dir
+/Users/jose.joya/Projects/Tests/simple/build/CMakeFiles/rebuild_cache.dir
+/Users/jose.joya/Projects/Tests/simple/build/CMakeFiles/list_install_components.dir
+/Users/jose.joya/Projects/Tests/simple/build/CMakeFiles/install.dir
+/Users/jose.joya/Projects/Tests/simple/build/CMakeFiles/install/local.dir
+/Users/jose.joya/Projects/Tests/simple/build/CMakeFiles/install/strip.dir
